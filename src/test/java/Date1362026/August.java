@@ -96,7 +96,7 @@ public void conditionalStatements(){
 
 
 }
-@Test(priority = 7)
+@Test(priority = 7554566)
 public void pageScroller(){
     JavascriptExecutor js = (JavascriptExecutor) driver;
     js.executeScript("window.scrollTo(0, 1000)");
