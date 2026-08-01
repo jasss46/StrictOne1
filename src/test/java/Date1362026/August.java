@@ -103,7 +103,7 @@ public void pageScroller(){
     }
 
 
-    @Test(priority = 8)
+    @Test(priority = 88888)
     public void checkBoxes(){
         //bySpecific text
 
